@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohitdawrani
 - 👀 I’m interested in developing android and ios apps using Flutter.
-- 🌱 I’m currently learning NodeJS for Backend.
 - 📫 You can reach me using linkedin
 
 I am an Expert Flutter Developer,
